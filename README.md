@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsanu
-- 👀 I’m interested in Learn to code
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in "How to Code"
+- 🌱 I’m currently learning Programming Language
 - 💞️ I’m looking to collaborate on Open-source
 
 
